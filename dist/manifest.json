@@ -1,0 +1,24 @@
+{
+    "name": "Vinco Bondinno - Portfolio",
+    "short_name": "VC Portfolio",
+    "description": "Professional portfolio showcasing projects, blogs, and expertise in web development",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#0F0F14",
+    "background_color": "#0F0F14",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "https://ik.imagekit.io/h3qzmviwv/60%20days%20react%20and%20Ai%2030%20project%20Challenge/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://ik.imagekit.io/h3qzmviwv/60%20days%20react%20and%20Ai%2030%20project%20Challenge/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
